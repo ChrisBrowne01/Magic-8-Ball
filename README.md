@@ -24,6 +24,7 @@ We’ll be using the following 9 possible answers for our Magic 8-Ball:
 - Most definately not
 - All signs point to no
 - Error
+
 The output of the program will have the following format:
 
       [Name] asks: [Question]
